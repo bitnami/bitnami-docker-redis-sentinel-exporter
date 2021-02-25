@@ -1,0 +1,6 @@
+version: '2'
+services:
+  redis-sentinel-exporter:
+    image: docker.io/bitnami/redis-sentinel-exporter:1-debian-10
+    ports:
+      - 9355:9355

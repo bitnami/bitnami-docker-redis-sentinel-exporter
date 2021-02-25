@@ -1,0 +1,9 @@
+{
+    "redis-sentinel-exporter": {
+        "arch": "amd64",
+        "digest": "0c7dbc26817cf550726cb4399d21b444e3053277805140656901cddbd90a5c94",
+        "distro": "debian-10",
+        "type": "NAMI",
+        "version": "1.7.1-1"
+    }
+}
